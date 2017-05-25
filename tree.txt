@@ -1,0 +1,5 @@
+(S
+  (REQUEST
+    (HEAD (PRP I) (VB want) (TO to))
+    (ACTION (VB draw) (ENTITY (DT a) (COLOR red) (GRA circle)))
+    (PP (IN on) (DIRECTION (DT the) (DIR left)))))
